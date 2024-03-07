@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Simonpto
 - 👀 I’m interested in sport
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me github
 - 😄 Pronouns: he/him
